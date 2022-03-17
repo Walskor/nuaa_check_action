@@ -145,3 +145,4 @@ push打卡测试一下
 ### 修改消息推送方式
 + check in 3.15 22
 + add wys, wx, qr
++ update data
